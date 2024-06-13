@@ -1,0 +1,9 @@
+com\ass\product_api\controller\ProductController.class
+com\ass\product_api\repository\imp\ProductRepositoryImp.class
+com\ass\product_api\config\ProductConfiguration.class
+com\ass\product_api\config\DispatcherServletInitialization.class
+com\ass\product_api\service\ProductService.class
+com\ass\product_api\service\imp\ProductServiceImp.class
+com\ass\product_api\repository\ProductRepository.class
+com\ass\product_api\config\MySqlDbConfiguration.class
+com\ass\product_api\entity\ProductEntity.class
